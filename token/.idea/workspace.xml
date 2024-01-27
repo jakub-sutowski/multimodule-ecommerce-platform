@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="789c9048-ea86-4de6-9ca9-8d5a0882a696" name="Changes" comment="Code cleaning">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/token/controller/TokenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/token/controller/TokenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/token/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/token/service/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/token/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/token/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2aDHrClbEVjpSvXVNvwh2XQSOLG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Dockerfile.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TokenApplication (dev).executor": "Run",
+    "Spring Boot.TokenApplication (local).executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jakubsutowski/Downloads/token",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.token.exception.exceptions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.token.exception.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="TokenApplication (dev)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <module name="token" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.token.TokenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenApplication (local)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" value="local" />
+      <module name="token" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.token.TokenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Spring Boot.TokenApplication (dev)" />
+      <item itemvalue="Spring Boot.TokenApplication (local)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-5f3ff201" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789c9048-ea86-4de6-9ca9-8d5a0882a696" name="Changes" comment="" />
+      <created>1703846425534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703846425534</updated>
+      <workItem from="1703846426595" duration="1659000" />
+      <workItem from="1703848418479" duration="3505000" />
+      <workItem from="1703893140304" duration="598000" />
+      <workItem from="1703959613339" duration="3733000" />
+      <workItem from="1704187738662" duration="13631000" />
+      <workItem from="1704229120941" duration="16718000" />
+      <workItem from="1704447187217" duration="598000" />
+      <workItem from="1704456972772" duration="6741000" />
+      <workItem from="1704471682934" duration="889000" />
+      <workItem from="1704534971844" duration="1026000" />
+      <workItem from="1704539672111" duration="1841000" />
+      <workItem from="1704549016405" duration="27000" />
+      <workItem from="1704631349102" duration="3682000" />
+      <workItem from="1704662089062" duration="27000" />
+      <workItem from="1704704622417" duration="19137000" />
+      <workItem from="1704739744705" duration="881000" />
+      <workItem from="1704793249763" duration="6914000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1704638801896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704638801896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code cleaning">
+      <option name="closed" value="true" />
+      <created>1704739780567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704739780567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Code cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code cleaning" />
+  </component>
+</project>

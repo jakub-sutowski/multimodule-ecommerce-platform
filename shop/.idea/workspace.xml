@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1794808e-6bc5-427c-aaa2-802569b55bae" name="Changes" comment="Code cleaning">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/shop/shop/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/ShopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/ShopApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/BasketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/BasketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/OpinionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/OpinionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/model/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/model/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/service/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/service/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/shop/shop/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Record" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZtgGzOkV8OSYqX73jRfLhpJ6uv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Docker.Dockerfile.executor": "Run",
+    "Maven.demo [clean].executor": "Run",
+    "Maven.demo [install].executor": "Run",
+    "Maven.demo [validate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ShopApplication (dev).executor": "Run",
+    "Spring Boot.ShopApplication (local).executor": "Run",
+    "Spring Boot.ShopApplication.executor": "Run",
+    "Spring Boot.ZadaniaApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jakubsutowski/Downloads/demo 3/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "Docker",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.shop.shop.model.response" />
+      <recent name="com.example.shop.shop.exception.exceptions" />
+      <recent name="com.example.shop.shop.dto.response" />
+      <recent name="com.example.demo.shop.service" />
+      <recent name="com.example.demo.shop.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.shop.shop.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="ShopApplication (dev)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <module name="shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shop.ShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopApplication (local)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" value="local" />
+      <module name="shop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shop.ShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Spring Boot.ShopApplication (dev)" />
+      <item itemvalue="Spring Boot.ShopApplication (local)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-5f3ff201" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1794808e-6bc5-427c-aaa2-802569b55bae" name="Changes" comment="" />
+      <created>1703246698066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703246698066</updated>
+      <workItem from="1703246699106" duration="24127000" />
+      <workItem from="1703281464166" duration="597000" />
+      <workItem from="1703325936469" duration="7191000" />
+      <workItem from="1703671429088" duration="27798000" />
+      <workItem from="1703756359273" duration="25082000" />
+      <workItem from="1703843387542" duration="29711000" />
+      <workItem from="1703893143992" duration="3063000" />
+      <workItem from="1703928872484" duration="16546000" />
+      <workItem from="1704187626973" duration="24716000" />
+      <workItem from="1704229116720" duration="23498000" />
+      <workItem from="1704447181925" duration="639000" />
+      <workItem from="1704456990004" duration="11491000" />
+      <workItem from="1704534973943" duration="3280000" />
+      <workItem from="1704539676379" duration="3876000" />
+      <workItem from="1704547099523" duration="1914000" />
+      <workItem from="1704631355203" duration="6148000" />
+      <workItem from="1704661094781" duration="993000" />
+      <workItem from="1704704632027" duration="26103000" />
+      <workItem from="1704739808883" duration="981000" />
+      <workItem from="1704792372881" duration="15331000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added properties">
+      <option name="closed" value="true" />
+      <created>1703848695744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703848695744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added security">
+      <option name="closed" value="true" />
+      <created>1704204226570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704204226570</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added bank.app and token.app connection">
+      <option name="closed" value="true" />
+      <created>1704638771550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704638771550</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code cleaning">
+      <option name="closed" value="true" />
+      <created>1704739819838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704739819838</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added properties" />
+    <MESSAGE value="Added security" />
+    <MESSAGE value="Added bank.app and token.app connection" />
+    <MESSAGE value="Code cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code cleaning" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
